@@ -3,12 +3,12 @@
     <channel>
         <title>SparkleUpdateTest</title>
         <item>
-            <title>0.9</title>
-            <pubDate>Fri, 16 Feb 2024 07:49:54 -0700</pubDate>
-            <sparkle:version>0.9</sparkle:version>
-            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <title>1.1</title>
+            <pubDate>Sat, 17 Feb 2024 12:05:11 -0700</pubDate>
+            <sparkle:version>1.1</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/jimsBeam/sparkleUpdateTest/releases/download/prod/SparkleUpdateTest0.9.dmg" length="100020736" type="application/octet-stream" sparkle:edSignature="caj5MXs8Y0o+6mJa3xfH1JCq68+XsMK9ZwwEVOBUlDAKnjcvdZmj+NJ0M9MhghJAshwffOqzVsJt4GrTjezTAA=="/>
+            <enclosure url="https://github.com/jimsBeam/sparkleUpdateTest/releases/download/prod/SparkleUpdateTest1.1.dmg" length="100020736" type="application/octet-stream" sparkle:edSignature="yTLMbzaXTswbfQvYDYTf0l0GconNim2et+mBK9ebagr4UG3P8cpfKRGR6YBU3yGWF6Z4ySEFgGu5xZlRcJMWAA=="/>
         </item>
     </channel>
 </rss>
