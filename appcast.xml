@@ -4,11 +4,11 @@
         <title>SparkleUpdateTest</title>
         <item>
             <title>1.1</title>
-            <pubDate>Sun, 18 Feb 2024 15:36:00 -0700</pubDate>
+            <pubDate>Mon, 19 Feb 2024 15:19:13 -0700</pubDate>
             <sparkle:version>1.1</sparkle:version>
             <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/jimsBeam/sparkleUpdateTest/releases/download/prod/SparkleUdateTest_.1.1._New.dmg" length="100020736" type="application/octet-stream" sparkle:edSignature="e6rRKqNkzNNviHh01P2MD/grBSvtP1nA0wP5Z7Uiv/mI0jM/30MIA6CG8OEXh1aMu5F6WF9s4hfTUYpjpu33AA=="/>
+            <enclosure url="https://github.com/jimsBeam/sparkleUpdateTest/releases/download/prod/SparkleUpdateTest1.1.dmg" length="839714" type="application/octet-stream" sparkle:edSignature="xCVx/z3oEodDttkBq1qOET/TYu+e7fJacNykAjO8FXhC1DkcNs0y4RKCqQo5ZP9Fxj+MJry0Mp2b7hOy6LzfAg=="/>
         </item>
     </channel>
 </rss>
